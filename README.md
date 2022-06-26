@@ -7,4 +7,6 @@ Submission installation :-
 ![unknown (1)](https://user-images.githubusercontent.com/108029724/175813998-af90528e-3eb1-495e-92c4-a105617dd677.png)
 
 Submission accounts:
-
+Discord : Shinigami#5362
+Slack : Salah Al-Hamawi
+Google Class : Salah Al-Hamawi
