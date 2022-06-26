@@ -9,7 +9,7 @@ Submission installation :-
 test{
   color: red;
   }
-</ style>
+</style>
 
 
 <p id="test" Submission accounts: </p> <br>
