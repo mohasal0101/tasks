@@ -6,7 +6,7 @@ Submission installation :-
 (introduction in ubuntu file using nano) <br>
 ![unknown (1)](https://user-images.githubusercontent.com/108029724/175813998-af90528e-3eb1-495e-92c4-a105617dd677.png)
 
-Submission accounts:
-Discord : Shinigami#5362
-Slack : Salah Al-Hamawi
+Submission accounts: <br>
+Discord : Shinigami#5362 <br>
+Slack : Salah Al-Hamawi <br>
 Google Class : Salah Al-Hamawi
