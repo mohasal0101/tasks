@@ -9,7 +9,7 @@ Submission installation :-
 
 
 
-Submission accounts: <br>
-Discord : Shinigami#5362 <br>
-Slack : Salah Al-Hamawi <br>
-Google Class : Salah Al-Hamawi
+///Submission accounts: ///<br>
+***Discord*** : Shinigami#5362 <br>
+***Slack*** : Salah Al-Hamawi <br>
+***Google Class*** : Salah Al-Hamawi
