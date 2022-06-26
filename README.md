@@ -1,11 +1,19 @@
-<style>
-   h1 {
+ <style>
+            h1 {
                 color: red;
                 animation: mymove 2s infinite;
             }
-  </style>
 
-# <h1>Task#1 </h1>
+            @keyframes mymove {
+                from {
+                    color: red;
+                }
+                to {
+                    color: yellow;
+                }
+            }
+            </style>
+<h1>Task#1 </h1>
 Profile Link :https://github.com/mohasal0101
 
 Submission installation :- 
