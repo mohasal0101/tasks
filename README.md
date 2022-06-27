@@ -10,6 +10,6 @@ Submission installation :-
 
 
 # ///Submission accounts: ///<br>
-***Discord*** : Shinigami#5362 <br>
+***Discord*** : SalahMoha#5362 <br>
 ***Slack*** : Salah Al-Hamawi <br>
 ***Google Class*** : Salah Al-Hamawi
